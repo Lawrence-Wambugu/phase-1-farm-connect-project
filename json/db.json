@@ -1,0 +1,68 @@
+{
+  "farms": [
+    {
+      "id": "1",
+      "name": "Tebere Grains",
+      "location": "Mwea,Kirinyaga",
+      "produce": "Rice, Wheat, Maize, Beans",
+      "interested": 14,
+      "image": "/images/rice-field.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Bondo Fisheries",
+      "location": "Bondo, Siaya",
+      "produce": "Tilapia, Catfish, Omena",
+      "interested": 11,
+      "image": "/images/fish-pond.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Gatundu Coffee Farm",
+      "location": "Gatundu, Kiambu",
+      "produce": "Coffee, Blueberries",
+      "interested": 21,
+      "image": "/images/coffee-farm.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Rotich Poultry Farm",
+      "location": "Kapsoya, Eldoret",
+      "produce": "Eggs, Chicken",
+      "interested": 13,
+      "image": "/images/chicken-farm.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Ole Lemain Dairies",
+      "location": "Kilgoris, Narok",
+      "produce": "Fresh Milk, Yoghurt, Mursik",
+      "interested": 23,
+      "image": "/images/dairy.jpg"
+    },
+    {
+      "id": "7789",
+      "name": "Kiraitu Veve Base",
+      "location": "Chuka, Meru",
+      "produce": "Miraa, Muguka",
+      "interested": 10,
+      "image": "/images/miraa.jpg"
+    },
+    {
+      "id": "17db",
+      "name": "Muthoni",
+      "location": "KImbo ruiru",
+      "produce": "sukuma",
+      "image": "https://weeatatlast.com/wp-content/uploads/2020/08/Sukuma-Wiki-Recipe-braised-collard-greens.jpg",
+      "interested": 0
+    },
+    {
+      "id": "e1c3",
+      "name": "elias",
+      "location": "kisii",
+      "produce": "peas",
+      "image": "https://weeatatlast.com/wp-content/uploads/2020/08/Sukuma-Wiki-Recipe-braised-collard-greens.jpg",
+      "interested": 0
+    }
+  ]
+}
