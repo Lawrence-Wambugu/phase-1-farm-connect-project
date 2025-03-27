@@ -84,7 +84,7 @@ farmForm.addEventListener("submit", (event) => {
     .catch(error => console.error("Error adding farm:", error));
 });
 
-// Search Functionality
+// Search functionality
 searchInput.addEventListener("input", () => {
     const searchTerm = searchInput.value.toLowerCase();
     const farmCards = document.querySelectorAll(".farm-card");
