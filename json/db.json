@@ -56,5 +56,39 @@
       "image": "https://weeatatlast.com/wp-content/uploads/2020/08/Sukuma-Wiki-Recipe-braised-collard-greens.jpg",
       "interested": 0
     }
+  ],
+  "interestedUsers": [
+    {
+      "id": "b16e",
+      "farmId": "17db",
+      "userName": "lawrence",
+      "userPhone": "0727277127",
+      "userProduct": "sukuma",
+      "userLocation": "kiambu"
+    },
+    {
+      "id": "c5ec",
+      "farmId": "82bc",
+      "userName": "lawrence",
+      "userPhone": "0727277127",
+      "userProduct": "sukuma",
+      "userLocation": "kiambu"
+    },
+    {
+      "id": "3e40",
+      "farmId": "1",
+      "userName": "kaka",
+      "userPhone": "89988999",
+      "userProduct": "rice",
+      "userLocation": "kiambu"
+    },
+    {
+      "id": "974c",
+      "farmId": "5",
+      "userName": "kris",
+      "userPhone": "5566677",
+      "userProduct": "milk",
+      "userLocation": "kilgoris"
+    }
   ]
 }
