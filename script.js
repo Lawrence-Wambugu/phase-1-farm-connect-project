@@ -153,7 +153,7 @@ searchInput.addEventListener("input", () => {
         }
     }
 
-    // Close Interest Form
+    // Close Interest form
     function closeForm(event) {
         if (event.target.id === "close-form") {
             document.querySelector(".overlay").remove();
