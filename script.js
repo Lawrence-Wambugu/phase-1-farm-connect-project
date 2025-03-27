@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     searchInput.id = "search-bar";
     document.body.insertBefore(searchInput, farmList);
 
-    // Create Dark/Light Mode Button
+    // Create Dark Light Mode Button
     toggleThemeButton.textContent = "🌙 Toggle Dark Mode";
     toggleThemeButton.id = "toggle-theme";
     document.body.insertBefore(toggleThemeButton, farmList);
