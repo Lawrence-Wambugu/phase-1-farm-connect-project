@@ -34,7 +34,7 @@
       "produce": "Eggs, Chicken",
       "phone": "0712345678",
       "interested": 13,
-      "image": "/images/chicken-farm.jpg"
+      "image": "images/chicken-farm.jpg"
     },
     {
       "id": "5",
