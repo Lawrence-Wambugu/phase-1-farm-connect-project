@@ -4,10 +4,11 @@ The app can be used by both the farmers and consumers.
 # Features
 Farmers are able post their farms online by filling in the required details on the Add you farm form; Farm Name, Location, Produce, Phone Nnumber for clients orders and image logo for their farms.
 The consumers are able to search for the required farms using the search bar space where they will find information posted by the farmers including the produce,farm location and the phone number to call when placing orders. Additionally they can express their interest by filling in the Express interest form which captures their details including name, produce, phone number and delivery location.
-# Technologies used
-HTML
-CSS
+# Front-end Technologies
+HTML,
+CSS,
 JavaScript
+#Backend Technologies 
 Json API
 # Getting started
 To get started with the project, follow these steps:
