@@ -21,13 +21,6 @@ cd phase-1-farm-connect-project
 
 # Project Structure
 phase-1-farm-connect-project/
-├── assets/
-│   └── images/
-│       ├── chicken-farm.jpg
-│       ├── coffee-farm.jpg
-│       ├── dairy.jpg
-        ├── fish-pond.jpg
-        └── miraa.jpg
 ├── src/
 └── json/
     ├── db.json    
