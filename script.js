@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
 
-    // Display Farm Cards
+    // Display Farm Card
     function displayFarm(farm) {
         const farmCard = document.createElement("div");
         farmCard.classList.add("farm-card");
