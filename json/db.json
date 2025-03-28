@@ -7,7 +7,7 @@
       "produce": "Rice, Wheat, Maize, Beans",
       "phone": "0712345678",
       "interested": 14,
-      "image": "/images/rice-field.jpg"
+      "image": "https://static.vecteezy.com/system/resources/previews/014/963/226/non_2x/top-view-of-rice-flour-wheat-in-a-wooden-bowl-and-ears-of-rice-isolated-on-white-background-free-photo.jpg"
     },
     {
       "id": "2",
@@ -16,7 +16,7 @@
       "produce": "Tilapia, Catfish, Omena",
       "phone": "0712345678",
       "interested": 11,
-      "image": "/images/fish-pond.jpg"
+      "image": "https://media.istockphoto.com/id/1270930647/photo/fresh-fish-dorado-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=gx8Q4ecD_gU98Iq8XpTivCIaC1PKKkKz6lZHswZ6e7Y="
     },
     {
       "id": "3",
@@ -25,7 +25,7 @@
       "produce": "Coffee, Blueberries",
       "phone": "0712345678",
       "interested": 21,
-      "image": "/images/coffee-farm.jpg"
+      "image": "https://static.vecteezy.com/system/resources/previews/030/665/792/non_2x/coffee-with-white-background-high-quality-ultra-hd-free-photo.jpg"
     },
     {
       "id": "4",
@@ -34,7 +34,7 @@
       "produce": "Eggs, Chicken",
       "phone": "0712345678",
       "interested": 13,
-      "image": "images/chicken-farm.jpg"
+      "image": "https://media.istockphoto.com/id/1324920494/photo/brown-chicken-with-an-egg.jpg?s=612x612&w=0&k=20&c=KVGh_20_fDALauXPblUrvQZ1x-FSRG85FlYIpkzlhzg="
     },
     {
       "id": "5",
@@ -43,7 +43,7 @@
       "produce": "Fresh Milk, Yoghurt, Mursik",
       "phone": "0712345678",
       "interested": 23,
-      "image": "/images/dairy.jpg"
+      "image": "https://img.freepik.com/premium-photo/cow-dairy-products-glass-bowl-watercolor-hand-drawn-illustration-white-background_753388-1240.jpg"
     },
     {
       "id": "7789",
@@ -52,7 +52,7 @@
       "produce": "Miraa, Muguka",
       "phone": "0712345678",
       "interested": 10,
-      "image": "/images/miraa.jpg"
+      "image": "https://media.licdn.com/dms/image/v2/D4E12AQF4_9a1G1uFNg/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1727945143271?e=2147483647&v=beta&t=NkrSpNdChbsRtxfgZ10MZqbsfJgY8vvhcjf5FWC4rMA"
     },
     {
       "id": "5616",
@@ -62,16 +62,7 @@
       "phone": "0727277127",
       "image": "https://weeatatlast.com/wp-content/uploads/2020/08/Sukuma-Wiki-Recipe-braised-collard-greens.jpg",
       "interested": 0
-    },
-    {
-      "id": "51da",
-      "name": "caleb",
-      "location": "kisii",
-      "produce": "bananas",
-      "phone": "0727277127",
-      "image": "https://weeatatlast.com/wp-content/uploads/2020/08/Sukuma-Wiki-Recipe-braised-collard-greens.jpg",
-      "interested": 0
-    }
+    } 
   ],
   "interestedUsers": [
     {
