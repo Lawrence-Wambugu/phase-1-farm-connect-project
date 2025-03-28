@@ -8,7 +8,7 @@ The consumers are able to search for the required farms using the search bar spa
 HTML,
 CSS,
 JavaScript
-#Backend Technologies 
+# Backend Technologies 
 Json API
 # Getting started
 To get started with the project, follow these steps:
