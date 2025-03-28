@@ -12,12 +12,11 @@ JavaScript
 Json API
 # Getting started
 To get started with the project, follow these steps:
-
-# Clone the repository:
+1. Clone the repository:
 git clone https://github.com/Lawrence-Wambugu/phase-1-farm-connect-project.git
-Navigate to the project directory:
+2. Navigate to the project directory:
 cd phase-1-farm-connect-project
-Open index.html in your web browser to view the app
+3. Open index.html in your web browser to view the app
 
 # Project Structure
 phase-1-farm-connect-project/
