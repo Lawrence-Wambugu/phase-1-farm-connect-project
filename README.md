@@ -3,7 +3,8 @@ This is a simple web application that allows local farmers to showcase their far
 The app can be used by both the farmers and consumers.
 # Features
 Farmers are able post their farms online by filling in the required details on the Add your farm form; Farm Name, Location, Produce, Phone Nnumber for clients orders and image logo for their farms.
-The consumers are able to search for the required farms using the search bar space where they will find information posted by the farmers including the produce,farm location and the phone number to call when placing orders. Additionally they can express their interest by filling in the Express interest form which captures their details including name, produce, phone number and delivery location.
+The consumers are able to search for the required farms using the search bar space where they will find information posted by the farmers including the produce,farm location and the phone number to call when placing orders. Additionally they can express their interest by filling in the Express Interest form which captures their details including name, product, phone number and delivery location.
+All users are able to Toggle Light Mode ☀️ or Dark Mode 🌙 depending on the UI preference 
 # Front-end Technologies
 HTML,
 CSS,
