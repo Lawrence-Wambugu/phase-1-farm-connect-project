@@ -6,8 +6,9 @@
       "location": "Mwea,Kirinyaga",
       "produce": "Rice, Wheat, Maize, Beans",
       "phone": "0712345678",
-      "interested": 14,
-      "image": "https://static.vecteezy.com/system/resources/previews/014/963/226/non_2x/top-view-of-rice-flour-wheat-in-a-wooden-bowl-and-ears-of-rice-isolated-on-white-background-free-photo.jpg"
+      "image": "https://static.vecteezy.com/system/resources/previews/014/963/226/non_2x/top-view-of-rice-flour-wheat-in-a-wooden-bowl-and-ears-of-rice-isolated-on-white-background-free-photo.jpg",
+      "interested": 0
+      
     },
     {
       "id": "2",
