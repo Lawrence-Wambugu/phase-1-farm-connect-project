@@ -5,6 +5,7 @@
       "name": "Tebere Grains",
       "location": "Mwea,Kirinyaga",
       "produce": "Rice, Wheat, Maize, Beans",
+      "phone": "0712345678",
       "interested": 14,
       "image": "/images/rice-field.jpg"
     },
@@ -13,6 +14,7 @@
       "name": "Bondo Fisheries",
       "location": "Bondo, Siaya",
       "produce": "Tilapia, Catfish, Omena",
+      "phone": "0712345678",
       "interested": 11,
       "image": "/images/fish-pond.jpg"
     },
@@ -21,6 +23,7 @@
       "name": "Gatundu Coffee Farm",
       "location": "Gatundu, Kiambu",
       "produce": "Coffee, Blueberries",
+      "phone": "0712345678",
       "interested": 21,
       "image": "/images/coffee-farm.jpg"
     },
@@ -29,6 +32,7 @@
       "name": "Rotich Poultry Farm",
       "location": "Kapsoya, Eldoret",
       "produce": "Eggs, Chicken",
+      "phone": "0712345678",
       "interested": 13,
       "image": "/images/chicken-farm.jpg"
     },
@@ -37,6 +41,7 @@
       "name": "Ole Lemain Dairies",
       "location": "Kilgoris, Narok",
       "produce": "Fresh Milk, Yoghurt, Mursik",
+      "phone": "0712345678",
       "interested": 23,
       "image": "/images/dairy.jpg"
     },
@@ -45,14 +50,16 @@
       "name": "Kiraitu Veve Base",
       "location": "Chuka, Meru",
       "produce": "Miraa, Muguka",
+      "phone": "0712345678",
       "interested": 10,
       "image": "/images/miraa.jpg"
     },
     {
-      "id": "17db",
-      "name": "Muthoni",
-      "location": "KImbo ruiru",
-      "produce": "sukuma",
+      "id": "5616",
+      "name": "elias",
+      "location": "ngong road",
+      "produce": "bananas",
+      "phone": "0727277127",
       "image": "https://weeatatlast.com/wp-content/uploads/2020/08/Sukuma-Wiki-Recipe-braised-collard-greens.jpg",
       "interested": 0
     }

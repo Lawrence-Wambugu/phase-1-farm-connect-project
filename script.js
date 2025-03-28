@@ -47,6 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <h3>${farm.name}</h3>
             <p><strong>Location:</strong> ${farm.location}</p>
             <p><strong>Produce:</strong> ${farm.produce}</p>
+             <p><strong>Phone:</strong> ${farm.phone}</p>
             <button class="interest-btn" data-id="${farm.id}">Interested</button>
         `;
     
@@ -61,14 +62,15 @@ farmForm.addEventListener("submit", (event) => {
     const name = document.getElementById("farm-name").value.trim();
     const location = document.getElementById("farm-location").value.trim();
     const produce = document.getElementById("farm-produce").value.trim();
+    const phone = document.getElementById("farm-phone").value.trim();
     const image = document.getElementById("farm-image").value.trim() || "/images/default-farm.jpg"; // Default image if none provided
 
-    if (!name || !location || !produce) {
+    if (!name || !location || !produce || !phone) {
         alert("Please fill in all required fields!");
         return;
     }
 
-    const newFarm = { name, location, produce, image, interested: 0 };
+    const newFarm = { name, location, produce, phone, image, interested: 0 };
 
     // Send farm to backend
     fetch("http://localhost:3000/farms", {
