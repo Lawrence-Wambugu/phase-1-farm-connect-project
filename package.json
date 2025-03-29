@@ -8,7 +8,6 @@
       "phone": "+254723456789",
       "image": "https://static.vecteezy.com/system/resources/previews/014/963/226/non_2x/top-view-of-rice-flour-wheat-in-a-wooden-bowl-and-ears-of-rice-isolated-on-white-background-free-photo.jpg",
       "interested": 0
-      
     },
     {
       "id": "2",
@@ -54,16 +53,7 @@
       "phone": "+25424564345",
       "interested": 10,
       "image": "https://media.licdn.com/dms/image/v2/D4E12AQF4_9a1G1uFNg/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1727945143271?e=2147483647&v=beta&t=NkrSpNdChbsRtxfgZ10MZqbsfJgY8vvhcjf5FWC4rMA"
-    },
-    {
-      "id": "5616",
-      "name": "elias",
-      "location": "ngong road",
-      "produce": "bananas",
-      "phone": "+254727277127",
-      "image": "https://weeatatlast.com/wp-content/uploads/2020/08/Sukuma-Wiki-Recipe-braised-collard-greens.jpg",
-      "interested": 0
-    } 
+    }
   ],
   "interestedUsers": [
     {
@@ -97,10 +87,24 @@
       "userPhone": "5566677",
       "userProduct": "milk",
       "userLocation": "kilgoris"
+    },
+    {
+      "id": "f5c6",
+      "farmId": "3",
+      "userName": "lawrence",
+      "userPhone": "0727277127",
+      "userProduct": "sukuma",
+      "userLocation": "kiambu"
     }
   ],
   "dependencies": {
   "json-server": "^0.17.0"
+},
+"scripts": {
+  "start": "node server.js"
 }
 
+
 }
+
+
