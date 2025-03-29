@@ -19,14 +19,6 @@ git clone https://github.com/Lawrence-Wambugu/phase-1-farm-connect-project.git
 cd phase-1-farm-connect-project
 3. Open index.html in your web browser to view the app
 
-# Project Structure
-phase-1-farm-connect-project/
-├── src/
-└── json/
-    ├── db.json    
-└── index.js
-├── styles.css
-└── index.html
 
 # App Usage
 Run "json-server --watch db.json" on the terminal to activate the database
