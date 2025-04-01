@@ -88,7 +88,7 @@
       "userProduct": "milk",
       "userLocation": "kilgoris"
     },
-    {
+     {
       "id": "f5c6",
       "farmId": "3",
       "userName": "lawrence",
@@ -96,15 +96,9 @@
       "userProduct": "sukuma",
       "userLocation": "kiambu"
     }
-  ],
-  "dependencies": {
-  "json-server": "^0.17.0"
-},
-"scripts": {
-  "start": "node server.js"
-}
-
+  ]
 
 }
+
 
 
