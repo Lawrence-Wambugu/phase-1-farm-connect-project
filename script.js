@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Fetch and Display Farms
     function fetchFarms() {
-        fetch("http://localhost:3000/farms")
+        fetch("https://mock-api-9vap.onrender.com/api/farms")
             .then(res => res.json())
             .then(farms => {
                 farmList.innerHTML = "";
@@ -144,7 +144,7 @@ searchInput.addEventListener("input", () => {
 
             const newInterest = { farmId, userName, userPhone, userProduct, userLocation };
 
-            fetch("http://localhost:3000/interestedUsers", {
+            fetch("https://mock-api-9vap.onrender.com/api/interestedusers", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(newInterest)
