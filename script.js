@@ -73,7 +73,7 @@ farmForm.addEventListener("submit", (event) => {
     const newFarm = { name, location, produce, phone, image, interested: 0 };
 
     // Send farm to backend
-    fetch("http://localhost:3000/farms", {
+    fetch("https://mock-api-9vap.onrender.com/api/farms", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(newFarm)
